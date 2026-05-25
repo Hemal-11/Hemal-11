@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-Final-year CS student at Parul University building things across the full stack, data pipelines, and cloud infrastructure. I like projects that involve real data, real APIs, and things that actually move on screen.
+Final-year CSE student at Parul University building things across the full stack, data pipelines, and cloud infrastructure. I like projects that involve real data, real APIs, and things that actually move on screen.
 
 Currently open to **internships, part-time, and remote roles** in full-stack, data engineering, software engineering, and cloud.
 
