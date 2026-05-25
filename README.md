@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1D9E75&center=true&width=500&lines=Hey%2C+I'm+Hemal+%F0%9F%91%8B;Full-Stack+%7C+Data+%7C+Cloud+Engineer;Open+to+Internships+%26+Remote+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1D9E75&center=true&width=700&lines=Hey%2C+I'm+Hemal+%F0%9F%91%8B;Full-Stack+%7C+Data+%7C+Cloud+Engineer;Open+to+Internships+%26+Remote+Roles)](https://git.io/typing-svg)
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemal-bhatt-ba10bb318)
