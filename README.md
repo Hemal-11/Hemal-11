@@ -28,10 +28,12 @@ Currently open to **internships, part-time, and remote roles** in full-stack, da
 <!-- SKILL BADGES -->
 **Languages**
 
+**Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Frontend & Backend**
 
@@ -74,15 +76,15 @@ Currently open to **internships, part-time, and remote roles** in full-stack, da
 
 </div>
 
-### 🛰 Satellite Tracker Platform · [Live Demo](https://your-live-link.com)
+### 🛰 Satellite Tracker Platform · [Live Demo](https://satellite-tracker-live.vercel.app)
 Real-time 3D satellite tracking — React + FastAPI, deployed on Vercel + Render. Tracks thousands of satellites using TLE orbital data with CesiumJS geospatial rendering and observer-based pass prediction.
 `React` `FastAPI` `Python` `CesiumJS` `Skyfield` `Vercel` `Render`
 
-### 📊 Netflix Clustering Dashboard · [Live Demo](https://your-live-link.com)
+### 📊 Netflix Clustering Dashboard · [Live Demo](https://public.tableau.com/app/profile/hemal.bhatt/viz/NetflixShowClustering/NetflixShowClustering)
 Unsupervised ML clustering on Netflix content visualized in an interactive Tableau dashboard. Genre overlap, viewing trends, content distribution — built on Python-preprocessed data.
 `Python` `Scikit-learn` `Tableau` `Pandas`
 
-### 🌍 Solar System Explorer · [Live Demo](https://your-live-link.com)
+### 🌍 Solar System Explorer · [Live Demo](https://solar-system-explorer-ten.vercel.app)
 Educational platform covering planets, missions, and agencies (NASA, ISRO, JAXA, ESA) with live space news via external APIs.
 `HTML` `CSS` `JavaScript`
 
@@ -119,7 +121,6 @@ Educational platform covering planets, missions, and agencies (NASA, ISRO, JAXA,
 
 - 🏅 AWS Academy Cloud Foundations — Amazon Web Services
 - 🏅 Computer Networks and Internet Protocol — NPTEL
-- 🏅 Smart Coder — Smart Interviews
 
 ---
 
@@ -140,7 +141,7 @@ Looking for internships, part-time, or remote roles. Reach out anytime.
 
 📧 hemalbhatt2004@gmail.com
 💼 [LinkedIn](https://linkedin.com/in/hemal-bhatt-ba10bb318)
-🧩 [LeetCode](https://leetcode.com/YOUR_USERNAME)
+🧩 [LeetCode](https://leetcode.com/Hemal_11)
 
 ---
 
