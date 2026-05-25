@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1D9E75&center=true&width=500&lines=Hey%2C+I'm+Hemal+%F0%9F%91%8B;Full-Stack+%7C+Data+%7C+Cloud+Engineer;Open+to+Internships+%26+Remote+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1D9E75&center=true&width=500&lines=Hey%2C+I'm+Hemal+%F0%9F%91%8B;Full-Stack+%7C+Data+%7C+Cloud+Engineer;Open+to+Internships+%26+Remote+Roles)](https://git.io/typing-svg)
 
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemal-bhatt-ba10bb318)
@@ -68,11 +68,11 @@ Currently open to **internships, part-time, and remote roles** in full-stack, da
 <!-- REPO CARDS — side by side -->
 <div align="center">
 
-[![Satellite Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Hemal-11&repo=Satellite-Tracker&hide_border=true&theme=default)](https://github.com/Hemal-11/Satellite-Tracker)
-[![Netflix Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Hemal-11&repo=tableau-netflix-cluster-viz&hide_border=true&theme=default)](https://github.com/Hemal-11/tableau-netflix-cluster-viz)
+[![Satellite Tracker](https://github-readme-stats-navy-chi-76.vercel.app/api/pin/?username=Hemal-11&repo=Satellite-Tracker&hide_border=true&theme=default)](https://github.com/Hemal-11/Satellite-Tracker)
+[![Netflix Dashboard](https://github-readme-stats-navy-chi-76.vercel.app/api/pin/?username=Hemal-11&repo=tableau-netflix-cluster-viz&hide_border=true&theme=default)](https://github.com/Hemal-11/tableau-netflix-cluster-viz)
 
-[![Solar System Explorer](https://github-readme-stats.vercel.app/api/pin/?username=Hemal-11&repo=solar-system-explorer&hide_border=true&theme=default)](https://github.com/Hemal-11/solar-system-explorer)
-[![Birthday Wisher Bot](https://github-readme-stats.vercel.app/api/pin/?username=Hemal-11&repo=Birthday_wisher&hide_border=true&theme=default)](https://github.com/Hemal-11/Birthday_wisher)
+[![Solar System Explorer](https://github-readme-stats-navy-chi-76.vercel.app/api/pin/?username=Hemal-11&repo=solar-system-explorer&hide_border=true&theme=default)](https://github.com/Hemal-11/solar-system-explorer)
+[![Birthday Wisher Bot](https://github-readme-stats-navy-chi-76.vercel.app/api/pin/?username=Hemal-11&repo=Birthday_wisher&hide_border=true&theme=default)](https://github.com/Hemal-11/Birthday_wisher)
 
 </div>
 
@@ -95,8 +95,8 @@ Educational platform covering planets, missions, and agencies (NASA, ISRO, JAXA,
 <!-- STATS CARDS -->
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemal-11&show_icons=true&hide_border=true&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemal-11&layout=compact&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats-navy-chi-76.vercel.app/api?username=Hemal-11&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats-navy-chi-76.vercel.app/api/top-langs/?username=Hemal-11&layout=compact&hide_border=true&theme=default)
 
 </div>
 
